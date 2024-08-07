@@ -1,2 +1,2 @@
 # reactjs-todolist
- CRUD TODO APP W. REACTJS
+ This is a simple CRUD TODO APP made with REACTJS
